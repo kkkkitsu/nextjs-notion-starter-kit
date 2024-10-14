@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '11bc0ff4ad0a8099a035c112ec59ed44',
+  rootNotionPageId: '11fc0ff4ad0a80269e1afce1cd126f68',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'kitsu',
   domain: 'kandhi.cn',
-  author: 'Kitsu Tnn',
+  author: 'Kitsu',
 
   // open graph metadata (optional)
   description: 'attention is ALL you NEED',
