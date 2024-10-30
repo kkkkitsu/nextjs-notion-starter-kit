@@ -12,6 +12,7 @@ export default siteConfig({
   name: 'kitsu',
   domain: 'kandhi.cn',
   author: 'Kitsu',
+  beian: '蜀ICP备2024104384号'
 
   // open graph metadata (optional)
   description: 'attention is ALL you NEED',
